@@ -4,7 +4,7 @@
 This repository contains my curated solutions to Leetcode problems, written in C++. It serves as a personal record of my learning journey, an aid for revision, and a resource for anyone looking to improve their DSA skills.
 ## 📁 Folder Structure
 
-Each file follows the naming format:<ProblemNumber>_<ProblemName>.cpp
+Each file follows the naming format: ProblemNumber_ProblemName.cpp
 ## Topics Covered
 
 - Arrays & Strings  
